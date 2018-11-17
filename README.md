@@ -8,3 +8,4 @@
 6. CNCF基金会：https://landscape.cncf.io/
 7. K8S中文官网: https://kubernetes.io/zh/
 8. 国外在线教育资源搜索网站: http://www.tutorialspoint.com/
+9. 2017年最佳python项目：https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3（需翻墙）

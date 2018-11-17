@@ -11,3 +11,4 @@
 9. 2017年最佳python项目：https://medium.mybridge.co/30-amazing-python-projects-for-the-past-year-v-2018-9c310b04cdb3（需翻墙）
 10. Django-Excel: http://django.pyexcel.org/en/latest/#
 11. Scientist: Learning with Python 3: https://media.readthedocs.org/pdf/howtothink/latest/howtothink.pdf
+12. Django Package: https://djangopackages.org/
